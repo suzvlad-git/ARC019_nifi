@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1762508085332,
+    "description" : "",
+    "identifier" : "customerupload",
+    "lastModifiedTimestamp" : 1762508085332,
+    "name" : "customer_upload",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
