@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1762508050304,
+    "description" : "",
+    "identifier" : "manufacturerload",
+    "lastModifiedTimestamp" : 1762508050304,
+    "name" : "manufacturer_load",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
