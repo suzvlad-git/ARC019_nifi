@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1762508026850,
+    "description" : "",
+    "identifier" : "minioflow",
+    "lastModifiedTimestamp" : 1762508026850,
+    "name" : "minio_flow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
